@@ -1,2 +1,2 @@
 # musicapp
-adding
+This is a Music App Home Page.
